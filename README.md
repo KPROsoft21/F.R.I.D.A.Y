@@ -4,7 +4,7 @@
  
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 [![Creator: Zameel](https://img.shields.io/badge/creator-Zameel-darkblue)](https://github.com/Zameel-Byte)
-[![Creator: Kprosoft21](https://img.shields.io/badge/creator-GREAT-GRANDMASTER-DA'AMAN-darkred)](https://github.com/kprosoft21)
+[![Creator: KPROsoft21](https://img.shields.io/badge/creator-GREAT-GRANDMASTER-DA'AMAN-darkblue)](https://github.com/kprosoft21)
 [![Creator: Kprosoft](https://img.shields.io/badge/creator-HackaKPRO-darkred)](https://github.com/kprosoft)
 [![Creator: Subhash](https://img.shields.io/badge/creator-vijaysubhash-darkblue)](https://github.com/vijaysubhash)
 [![Creator: Naveen](https://img.shields.io/badge/creator-Naveen-darkblue)](https://github.com/Nawin14365)
@@ -166,7 +166,7 @@ For App_Id of [Wolfram|Aplha App id](https://www.wolframalpha.com/) follow below
 ## Contributing
 Pull requests are welcome. Please open an issue first to discuss what you would like to change for major changes.
 
-![Your Repository's Stats](https://contrib.rocks/image?repo=just-innovative-bro/F.R.I.D.A.Y)
+![Your Repository's Stats](https://contrib.rocks/image?repo=kprosoft21/F.R.I.D.A.Y)
 
 Please make sure to update tests as appropriate.
 
